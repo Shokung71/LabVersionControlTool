@@ -1,0 +1,1 @@
+print("Bancha Wasanasitthi","66106030", sep="\n")
